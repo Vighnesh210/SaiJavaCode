@@ -6,7 +6,7 @@
   <display-name>Webapp</display-name>
   <!--
   <servlet>
-  <servlet-name>HHHHHHHiiiiHHHHHHelllllllllloWorldddddExample</servlet-name>
+  <servlet-name>HHHHHHHiiiiiiiiiiHHHHHHelllllllllloWorldddddExample</servlet-name>
   <servlet-class>com.example.HelloWorldExample</servlet-class>
   </servlet>
   <servlet-mapping>
